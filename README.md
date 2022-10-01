@@ -27,23 +27,23 @@ Atlic Grands provies many Luxury and Business class hotels in 4 cities Mumbai,Ba
 ## Dataset
 ## In the Dataset we have 5 CSV files:
 
-dim_date
-dim_hotels
-dim_rooms
-fact_aggregated_bookings
-fact_bookings
+> * dim_date
+> * dim_hotels
+> * dim_rooms
+> * fact_aggregated_bookings
+> * fact_bookings
 
 
 ## Tool Used
 Excel
 
 ## INSIGHTS
-1. In the month of m may has the highest revenue realiased
-2. july has the highest count no of booking
-3.july has lowest cancellation rate
-4. Total revenue is 2.01 Billion.
-5 Booking cancellation rate is 24.83%
-6 Bookings are more in Weekends than Weekdays.
-7.Most of people Book the hotels for only one person.
-8.mumbai has the highest count of guests in weekday rather than weekend
-9.the property atliq has the highest the sum revenue
+ * In the month of m may has the highest revenue realiased
+* july has the highest count no of booking
+* july has lowest cancellation rate
+*  Total revenue is 2.01 Billion.
+*  Booking cancellation rate is 24.83%
+*  Bookings are more in Weekends than Weekdays.
+* Most of people Book the hotels for only one person.
+* mumbai has the highest count of guests in weekday rather than weekend
+* the property atliq has the highest the sum revenue
