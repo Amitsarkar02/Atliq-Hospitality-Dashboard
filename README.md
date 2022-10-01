@@ -47,3 +47,9 @@ Excel
 * Most of people Book the hotels for only one person.
 * mumbai has the highest count of guests in weekday rather than weekend
 * the property atliq has the highest the sum revenue
+
+### DashBoard Page 1
+![Screenshot (183)](https://user-images.githubusercontent.com/104220565/193414701-14e8211e-3b6f-4bf2-9227-5a6b84c99882.png)
+
+### DashBoard Page 2
+![Screenshot (184)](https://user-images.githubusercontent.com/104220565/193414709-5a133ac9-f9f4-49d6-9eb9-5147cbc68abb.png)
