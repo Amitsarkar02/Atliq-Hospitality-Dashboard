@@ -19,12 +19,13 @@ Atlic Grands provies many Luxury and Business class hotels in 4 cities Mumbai,Ba
   Total Cancelled Bookings
   Cancellation Rate
   
-##Create a dashboard according to the mock-up provided by stakeholders.
-##Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Resources
+## Create a dashboard according to the mock-up provided by stakeholders.
+## Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-##Dataset
-##In the Dataset we have 5 CSV files:
+## Resources
+
+## Dataset
+## In the Dataset we have 5 CSV files:
 
 dim_date
 dim_hotels
@@ -33,9 +34,10 @@ fact_aggregated_bookings
 fact_bookings
 
 
-##Tool Used
-#Excel
+## Tool Used
+Excel
 
+## INSIGHTS
 1. In the month of m may has the highest revenue realiased
 2. july has the highest count no of booking
 3.july has lowest cancellation rate
