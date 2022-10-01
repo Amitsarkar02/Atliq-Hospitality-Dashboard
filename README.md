@@ -9,15 +9,15 @@ Atlic Grands provies many Luxury and Business class hotels in 4 cities Mumbai,Ba
 
 ## Objective
 
-1.Create the metrics according to the metric list.
-  Total Bookings
-  Revenue
-  Average Rating
-  Total Capacity
-  Total Successful bookings
-  Occupancy %
-  Total Cancelled Bookings
-  Cancellation Rate
+* Create the metrics according to the metric list.
+  > * Total Bookings
+  > * Revenue
+  > * Average Rating
+  > * Total Capacity
+  > * Total Successful bookings
+  > * Occupancy %
+  > * Total Cancelled Bookings
+  > * Cancellation Rate
   
 ## Create a dashboard according to the mock-up provided by stakeholders.
 ## Create relevant insights that are not provided in the metric list/mock-up dashboard.
