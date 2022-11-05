@@ -3,7 +3,7 @@ The project is to create a Dashboard of Atliq Hospitality to understand the insi
 
 
  ## Introduction
-Atlic Grands provies many Luxury and Business class hotels in 4 cities Mumbai,Bangalore,Hydrabad and Delhi.in this project I create a DashBoard on the Atlic Grands to provide some insights reguarding the hotels. I use business inteligence to make this dashboard using Excel.
+Atlic Grands provies many Luxury and Business class hotels in 4 cities Mumbai,Bangalore,Hydrabad and Delhi.in this project I create a DashBoard on the Atlic Grands to provide some insights reguarding the hotels. I use business inteligence to make this dashboard using Excel and sql.
 
 
 
